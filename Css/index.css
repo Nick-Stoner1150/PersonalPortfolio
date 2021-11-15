@@ -1,0 +1,56 @@
+.main_header {
+    font-size: 7rem;
+    display: blockblock;
+    margin-top: 7rem;
+    padding-left: 7rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.header-descriptions {
+    margin-top: 1rem;
+    padding-left: 7rem;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+h2 {
+
+}
+
+.portfolio {
+    padding: 3rem;
+}
+
+.portfolio h3 {
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+
+form {
+    margin-left: 10rem;
+    margin-top: 1.5rem;
+    margin-right: 10rem;
+    background-color: #e9ecef;
+    border-color: #343a40;
+    border-width: .25rem;
+    border-style: outset;
+    margin-bottom: 5rem;
+    font-size: 1.75rem;
+
+}
+
+.contact {
+    margin-top: 5rem;
+    margin-left: 10rem;
+
+}
+
+.contact h3 {
+    font-size: 3rem;
+}
